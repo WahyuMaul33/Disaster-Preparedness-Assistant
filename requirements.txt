@@ -1,0 +1,9 @@
+streamlit
+pandas
+google-genai
+langchain
+langchain-community
+langgraph
+langchain-google-genai
+langchain-groq
+
