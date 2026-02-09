@@ -1,6 +1,6 @@
 # Final-Project-of-LLM-Based-Tools-and-Gemini-API-Integration-for-Data-Scientists
 
-# 🆘 Disaster Preparedness Assistant (Gemini + Groq) — Streamlit Chatbot
+# Disaster Preparedness Assistant (Gemini + Groq) — Streamlit Chatbot
 
 Final Project: **LLM-Based Tools and Gemini API Integration**  
 A Streamlit chatbot that helps users with **flood (banjir)** and **earthquake (gempa)** situations using LLMs (Gemini / Groq), with configurable parameters and memory.
@@ -9,7 +9,7 @@ A Streamlit chatbot that helps users with **flood (banjir)** and **earthquake (g
 
 ---
 
-## ✨ Features
+## Features
 
 - **Two Modes**
   - **⚡ Now Action**: Prioritized guidance for the next 0–10 minutes + ready-to-copy messages (family/RT/posko).
@@ -29,7 +29,7 @@ A Streamlit chatbot that helps users with **flood (banjir)** and **earthquake (g
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
 - **Streamlit** (UI)
 - **LangChain**
