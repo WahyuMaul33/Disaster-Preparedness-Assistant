@@ -1,5 +1,3 @@
-# Final-Project-of-LLM-Based-Tools-and-Gemini-API-Integration-for-Data-Scientists
-
 # Disaster Preparedness Assistant (Gemini + Groq) — Streamlit Chatbot
 
 Final Project: **LLM-Based Tools and Gemini API Integration**  
